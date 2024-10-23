@@ -2,7 +2,7 @@
 //#ifndef _CRT_SECURE_NO_WARNINGS
 //#define _CRT_SECURE_NO_WARNINGS
 //#endif
-//
+//hi           wewew
 //#include<iostream> // for C++ code
 //#include <string.h> // for C code
 //#include <stdio.h> // for C code
